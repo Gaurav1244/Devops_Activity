@@ -9,7 +9,7 @@ def display_student():
     print("Name:", name)
     print("Course:", course)
     print("College:", college)
-
+    print("Version control managed using Git and GitHub")
 
 if __name__ == "__main__":
     display_student()
